@@ -1,0 +1,9 @@
+ac
+ababab
+aaabbb
+c
+abcd
+abbaabbcc
+bbc
+ab+c
+ab*c
